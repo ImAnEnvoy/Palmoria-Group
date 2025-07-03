@@ -1,0 +1,51 @@
+# DSA Data Analysis Final Project Documentation
+This is where I started my portfolio building while taking my Data Analysis class with the Incubator Hub. As a result, I completed the final project using the Plamorial Group data set.
+
+## Project topic: 
+Palmora Group HR Analysis
+
+### Project overview
+The Palmoria Group is a manufacturing company based in Nigeria, embroiled in issues bordering on gender inequality in its 3 regions which are (Abuja, Kaduna Lagos).  The task to identify 
+key areas within the business that could give rise to issues and address them immediately. 
+
+For this analysis, a comprehensive Exploratory Data Analysis (EDA) was carried out using the Power Bi tools and techniques relevant to the context of this dataset was employed. THis included: 
+- Ingestion: this is connecting analytics system with the storage system.
+- Transformation: Cleaning the data to remove unwanted (null, error values, blanks etc) data from the dataset
+- Modeling: Analyzing how two or more tables (or data set) are related. 
+- Visualization: interpreting the data visuals e.g. graphs, chart, etc
+- Analysis: performing calculations with the data
+- Presentation: submitting the findings for decision making
+
+### Data Source
+State the primary sources where you get your data/resouce for the project
+
+### Tools Used
+State the tool(s) used for creation the project e.g
+- MS Excel (for data cleaning) - [Download Here](https://www.microsoft.com)
+    - For data collection
+    - For data cleaning
+- SQL (for querying and analysis) 
+- Power BI (for creating a report)
+- MS PowerPoint (for presentation)
+
+### Data Cleaning and Preparation
+
+### Exploratory Data Analysis (EDA)
+
+### Data Analysis
+
+### You can also add some code under analysis
+
+``` SQL
+    update Employee
+    set LastName = 'Abubakar'
+    where staffid = 'AB234'
+    
+    update salary
+    set department = 'Information Tech'
+    where staffid = 'AB223'
+    
+    UPDATE salary
+    SET Staffid = 'AB350'
+    WHERE Staffid = 'AB401'
+
