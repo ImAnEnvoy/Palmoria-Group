@@ -93,5 +93,5 @@ Phone:       +234 307 5187 993
 WhatsApp:    +234 817 9264 472
 Linkedin:    www.linkedin.com/in/ezekiel-ayoola-89a10983
 
-##GitHub Support
+## GitHub Support
 If you find this work intersting and resourseful, kindly ⭐ this repository. Thank you.
